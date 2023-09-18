@@ -18,15 +18,6 @@
     "imageURL": "https://media.istockphoto.com/id/1258142863/photo/tomatoes-isolate-on-white-background-tomato-half-isolated-tomatoes-side-view-whole-cut-slice.jpg?b=1&s=170667a&w=0&k=20&c=hFvgq7wOVkoxHR7O2KE3DDbO127FJT4Ub_NZJ6FQCTQ="
   },
   {
-    "id": 3,
-    "name": "Bananas",
-    "price": 40.0,
-    "qtyleft": 15,
-    "description": "Sweet and nutritious bananas grown in Kerala.",
-    "product": "fruits",
-    "imageURL": "https://media.istockphoto.com/id/1400057530/photo/bananas-isolated.jpg?b=1&s=170667a&w=0&k=20&c=uiSdjIQkTr7S4gEdW_oB_5zfFYhpfe0LP-CryQl49w4="
-  },
-  {
     "id": 4,
     "name": "Onions",
     "price": 20.0,
@@ -79,15 +70,6 @@
     "description": "Delicious and nutritious pomegranates grown in Punjab.",
     "product": "fruits",
     "imageURL": "https://www.gannett-cdn.com/authoring/2012/12/04/NCDT/ghows-MO-7a35dcf7-6193-4659-83d8-fbbeb06af9b4-37258d1a.jpeg?width=660&height=547&fit=crop&format=pjpg&auto=webp"
-  },
-  {
-    "id": 10,
-    "name": "Spinach",
-    "price": 15.0,
-    "qtyleft": 35,
-    "description": "Fresh and healthy spinach for all your cooking needs.",
-    "product": "vegetables",
-    "imageURL": "https://www.tastingtable.com/img/gallery/12-best-substitutes-for-spinach/l-intro-1668722550.jpg"
   },
   {
     "id": 11,
