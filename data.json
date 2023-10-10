@@ -142,5 +142,86 @@
     "description": "Fresh and crunchy green beans for salads and stir-fries.",
     "category": "vegetables",
     "imageURL": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/Food-Nutrition/1296x728_Green_Beans_Nutrition_Facts_and_Health_Benefits-IMAGE_1.jpg?w=1155&h=1528"
+  },
+  {
+    "id": 21,
+    "name": "Apples",
+    "price": 140,
+    "description": "Crisp and sweet red apples for snacking and baking.",
+    "category": "fruits",
+    "imageURL": "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/apple1.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Samsung",
+    "price": 25,000,
+    "description": "High-performance smartphone with a large display and fast processor.",
+    "category": "electronics",
+    "imageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paisawapas.com%2Fdeals%2Fd-samsung-galaxy-m33-5g-6000mah-battery-upto-12gb-ram-with-ram-plus-travel-adapter-to-be-purchased-separately-28059&psig=AOvVaw14eqi1BQ8d3uayGVHfZUMl&ust=1697010084459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiYha396oEDFQAAAAAdAAAAABAK"
+  },
+  {
+    "id": 23,
+    "name": "Mik Biscuits",
+    "price": 30,
+    "description": "Assorted biscuits for tea-time snacking.",
+    "category": "grocery",
+    "imageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgreenleafonline.net%2Fsnacks-branded-foods%2Fbiscuits-cookies%2Fbritannia-milk-bikis-biscuits-150g.html&psig=AOvVaw2JOMJJgNlfwAiByHlnrgkc&ust=1697010197337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiF1uT96oEDFQAAAAAdAAAAABAI"
+  },
+  {
+    "id": 24,
+    "name": "Tata Salt",
+    "price": 45,
+    "description": "Fine table salt for seasoning and cooking.",
+    "category": "grocery",
+    "imageURL": "https://m.media-amazon.com/images/I/61iwSrHWt6L.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Colgate Toothpaste",
+    "price": 50,
+    "description": "Fluoride toothpaste for fresh breath and strong teeth.",
+    "category": "personal care",
+    "imageURL": "https://m.media-amazon.com/images/I/61nctAojOEL.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Rin Washing Powder",
+    "price": 120,
+    "description": "Powerful detergent for clean and fresh-smelling clothes.",
+    "category": "personal care",
+    "imageURL": "https://www.example.com/rin_image.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Wheat",
+    "price": 400,
+    "description": "Whole wheat grains for making bread and pasta.",
+    "category": "grocery",
+    "imageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Faashirvad-wheat-flour-27204277355.html&psig=AOvVaw3muw-L1NZnQ3_lg33wWJUL&ust=1697010810032000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi43IeA64EDFQAAAAAdAAAAABAD"
+  },
+  {
+    "id":27 ,
+    "name": "LG 4K Smart TV",
+    "price": 65000,
+    "description": "High-quality LG 4K Smart TV with a large screen and smart features for streaming.",
+    "category": "electronics",
+    "imageURL": "https://www.smithscity.co.nz/content/productimages/lg-42-c3-oled-evo-4k-smart-tv-9077118-1.jpg?width=1320&height=860&fit=bounds&bg-color=fff&canvas=1320%2C860"
+  },
+  {
+    "id": 28,
+    "name": "Dell XPS 15",
+    "price": 90000,
+    "description": "High-performance Dell XPS 15 laptop with a powerful processor and a stunning display.",
+    "category": "electronics",
+    "imageURL": "https://images-cdn.ubuy.co.in/634d0befa8722a4ef92faaf1-dell-xps-15-9570-laptop-15-6-inch-4k.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Samsung Earphones",
+    "price": 400,
+    "description": "Samsung earphones for immersive audio experience and peace in noisy environments.",
+    "category": "electronics",
+    "imageURL": "https://m.media-amazon.com/images/I/51W2568WFpL._AC_UF1000,1000_QL80_.jpg"
   }
+  
 ]
